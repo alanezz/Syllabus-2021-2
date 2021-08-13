@@ -14,6 +14,18 @@ Durante el curso el alumno aprenderá el flujo de trabajo que debe seguir un _da
 
 Finalmente, también se contempla estudiar técnicas para medir el desempeño de estos algoritmos y optimizar su funcionamiento. Al final del curso el alumno conocerá en qué contexto usar cada uno de los modelos, entendiendo sus ventajas y desventajes. Además podrá desarrollar algunos de estos modelos desde cero.
 
+## Evaluaciones
+| Evaluación | Fecha de publicación | Contenido |
+|---|---|---|
+| Actividad 00 | 05 de agosto | Introducción a Pandas |
+| Actividad 01 | 12 de agosto | Scikit Learn |
+| Actividad 02 | 26 de agosto | Naive Bayes y Medidas de Desempeño |
+| Actividad 03 | 09 de septiembre | Regresión Lineal, Logística y Gradient Descent |
+| Actividad 04 | 07 de octubre | SVM y Kernels |
+| Actividad 05 | 04 de noviembre | Reducción de Dimensionalidad, Random Forest y Feature Importance |
+| Actividad 06 | 25 de noviembre | Clustering y Redes Neuronales |
+
+Además, hay una entrega parcial del proyecto pronosticada para el **29 de octubre**, mientras que la entrega final está programada para el **09 de diciembre**.
 
 ## Foro
 
