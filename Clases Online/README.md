@@ -4,3 +4,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 
 - [Clase 01 - Introducción](https://youtu.be/41f_EJef5aA)
 - [Clase 02 - Introducción a Scikit Learn](https://youtu.be/RRkSqdOJB3k)
+- [Clase 03 - Clasificación y Medidas de Desempeño](https://youtu.be/O0Kqk-tnwVs)
