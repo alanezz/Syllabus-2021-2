@@ -6,3 +6,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 02 - Introducción a Scikit Learn](https://youtu.be/RRkSqdOJB3k)
 - [Clase 03 - Clasificación y Medidas de Desempeño](https://youtu.be/O0Kqk-tnwVs)
 - [Clase 04 - Feature Engineering y Naive Bayes](https://youtu.be/0uQLmgn6XA8)
+- [Clase 05 - Regresión Lineal, Regularización y Gradient Descent](https://youtu.be/LJ8scfDIbDk)
