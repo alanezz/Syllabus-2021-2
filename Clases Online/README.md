@@ -7,3 +7,5 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 03 - Clasificación y Medidas de Desempeño](https://youtu.be/O0Kqk-tnwVs)
 - [Clase 04 - Feature Engineering y Naive Bayes](https://youtu.be/0uQLmgn6XA8)
 - [Clase 05 - Regresión Lineal, Regularización y Gradient Descent](https://youtu.be/LJ8scfDIbDk)
+- [Clase 06 - Regresión Logística y Bias-Variance Trade-off](https://youtu.be/f0Y9Nw2piyg)
+- [Clase 07 - SVM](https://youtu.be/OSCT5oRJZV8)
