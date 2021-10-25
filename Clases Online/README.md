@@ -10,3 +10,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 06 - Regresión Logística y Bias-Variance Trade-off](https://youtu.be/f0Y9Nw2piyg)
 - [Clase 07 - SVM](https://youtu.be/OSCT5oRJZV8)
 - [Clase 08 - SVM y Kernel Trick](https://youtu.be/cFRSp-7znc4)
+- [Clase 09 - Decision Trees, Random Forests & Boosting](https://youtu.be/uGnM1SYZQiA)
