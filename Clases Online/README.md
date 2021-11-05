@@ -11,3 +11,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 07 - SVM](https://youtu.be/OSCT5oRJZV8)
 - [Clase 08 - SVM y Kernel Trick](https://youtu.be/cFRSp-7znc4)
 - [Clase 09 - Decision Trees, Random Forests & Boosting](https://youtu.be/uGnM1SYZQiA)
+- [Clase 10 - Reducción de Dimensionalidad y Clustering](https://youtu.be/oy3xEy_70gI)
