@@ -14,3 +14,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 10 - Reducción de Dimensionalidad y Clustering](https://youtu.be/oy3xEy_70gI)
 - [Clase 11 - GMM y Redes Neuronales](https://youtu.be/Hz5t0iqksoc)
 - [Clase 12 - Autoencoders y CNNs](https://youtu.be/l-D_4yMvlRU)
+- [Clase 13 - CNN y GNN](https://youtu.be/TVC9TInjkbsq)
